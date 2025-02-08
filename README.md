@@ -1,0 +1,1 @@
+This repository provides resources, examples, and code snippets for building microservices using Spring Boot. It includes foundational concepts, best practices, and real-world implementations tailored for Java developers interested in microservices architecture.
